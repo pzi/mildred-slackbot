@@ -1,0 +1,23 @@
+{
+  "name": "mildred-slackbot",
+  "version": "0.1.0",
+  "description": "Slackbot that serves drinks to visitors",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "author": {
+    "name": "Patrik Affentranger",
+    "email": "hello@patrikaffentranger.me",
+    "url": "http://patrikaffentranger.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "slackbots": "^0.5.2"
+  }
+}
