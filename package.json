@@ -16,6 +16,10 @@
     "url": "http://patrikaffentranger.me"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pzi/mildred-slackbot.git"
+  },
   "dependencies": {
     "dotenv": "^2.0.0",
     "slackbots": "^0.5.2"
